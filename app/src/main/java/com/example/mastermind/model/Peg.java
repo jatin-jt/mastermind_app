@@ -1,8 +1,12 @@
 package com.example.mastermind.model;
-
-
 public enum Peg {
-    //TODO: Add all the required peg colors
+    EMPTY,
     RED,
-    BLUE
+    BLUE,
+    YELLOW,
+    GREEN,
+    ORANGE,
+    VIOLET,
+    CYAN,
+    BROWN
 }
